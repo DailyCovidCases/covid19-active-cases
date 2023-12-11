@@ -6,4 +6,6 @@ A major update involving Recovered data for some countries has been performed to
 
 +)Laos: since May 4, 2021
 
-Last update: 2023-12-05
++)Japan: since September 27, 2022
+
+Last update: 2023-12-11

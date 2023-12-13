@@ -2,7 +2,7 @@ A major update involving Recovered data for some countries has been performed to
 
 +)Poland: since April 7, 2021
 
-+)Vietnam: since March 25, 2020
++)Vietnam: since May 8, 2021
 
 +)Laos: since May 4, 2021
 

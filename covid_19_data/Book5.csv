@@ -1,4 +1,4 @@
-Date,Cases,Deaths,Daily cases,Daily deaths,Active cases,Active cases,Change (active cases),Recoveries (old),Recoveries (new)
+Date,Cases,Deaths,Daily cases,Daily deaths,Active cases (new),Active cases (old),Change in active cases,Recoveries (old),Recoveries (new)
 15/2/2020,0,0,,,0,0,0,0,0
 16/2/2020,0,0,0,0,0,0,0,0,0
 17/2/2020,0,0,0,0,0,0,0,0,0

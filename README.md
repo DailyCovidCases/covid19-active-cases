@@ -24,4 +24,8 @@ https://www.imna.ir/service/society/Health
 
 https://covid19-greece.tk/index_en.html
 
++)France:
+
+https://www.cascoronavirus.fr/
+
 Last update: 2023-12-25

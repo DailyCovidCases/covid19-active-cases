@@ -28,4 +28,5 @@ https://covid19-greece.tk/index_en.html
 
 https://www.cascoronavirus.fr/
 
+https://www.mesvaccins.net/web/news/20397
 Last update: 2023-12-25
